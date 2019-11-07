@@ -1,2 +1,2 @@
 # camagru
-Completed
+A basic PHP web app
